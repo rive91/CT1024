@@ -7,6 +7,8 @@ public class Eejemplo_Selenium {
 
 	public static void main(String[] args) {
 		WebDriver driver = new ChromeDriver();
+
+		//Agregando espaico entre lineas
 		driver.get("https://www.google.com");
 
 	}
