@@ -9,7 +9,7 @@ public class Eejemplo_Selenium {
 		WebDriver driver = new ChromeDriver();
 
 		//Agregando espaico entre lineas
-		driver.get("https://www.google.com");
+		driver.get("https://www.x.com");
 
 	}
 
